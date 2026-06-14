@@ -10,14 +10,10 @@
 
 ---
 
-**Submitted By:** [Your Full Name]  
-**Roll Number:** [Your Roll Number]  
-**Department:** [Computer Science / IT / Cyber Security]  
-**Institution:** [Your College/University Name]  
-**Internship Period:** [Start Date] – [End Date]  
-**Guide/Supervisor:** [Guide Name, Designation]  
-
-**Date of Submission:** June 2026
+**Submitted By:** [Sakshay]  
+**Roll Number:** [NA]  
+**Department:** [Computer Science]  
+**Institution:** [SRM University]  
 
 </p>
 
@@ -25,7 +21,7 @@
 
 ## CERTIFICATE
 
-This is to certify that the project report entitled **"Secure User Management Web Application"** submitted by **[Your Name]** in partial fulfillment of the requirements for the internship program at **[Organization/Department Name]** is a record of bonafide work carried out under my supervision.
+This is to certify that the project report entitled **"Secure User Management Web Application"** submitted by **[Sakshay]** in partial fulfillment of the requirements for the internship program at **[Codec Technologies]** is a record of bonafide work carried out under my supervision.
 
 The matter embodied in this report has not been submitted elsewhere for any other degree or diploma.
 
