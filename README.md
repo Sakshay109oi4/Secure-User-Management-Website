@@ -1,6 +1,6 @@
 # Secure User Management Web Application
 
-A production-grade full-stack web application demonstrating secure user authentication, role-based access control (RBAC), and OWASP Top 10 security best practices. Built for internship evaluation and GitHub publication.
+A production-grade full-stack web application demonstrating secure user authentication, role-based access control (RBAC), and OWASP Top 10 security best practices. 
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![Express](https://img.shields.io/badge/Express-4.x-lightgrey)
@@ -387,10 +387,6 @@ Full Q&A: [docs/VIVA_QUESTIONS.md](docs/VIVA_QUESTIONS.md)
 
 ---
 
-## License
+## Author
 
-MIT License — free to use for learning and internship projects.
-
----
-
-**Built with security in mind. Ready for internship evaluation and GitHub publication.**
+Sakshay
